@@ -1,0 +1,6 @@
+{
+  "name": "Liquid Orb",
+  "description": "Real-time liquid-glass orb editor and shader playground with 13 animated presets, customizable refraction, highlights, and code export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
